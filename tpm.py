@@ -9,6 +9,6 @@ if not isdir('Packages'):
 if argv[1] == 'install':
 	pkg = argv[2]
 	try:
-		URLopener().retrieve(f'https://raw.githubusercontent.com/MajArtsGroup/Tiny-Package-Manager/main/pack/{pkg}.h', f'Packages/{lib}.h')
+		URLopener().retrieve(f'https://raw.githubusercontent.com/MajArtsGroup/Tiny-Package-Manager/main/pack/{pkg}.pkg', f'Packages/{lib}.h')
 	except:
 		print(f"Package {pkg} not found")
