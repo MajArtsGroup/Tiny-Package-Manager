@@ -15,5 +15,5 @@ python tpm.py install testPackage.pkg
 ## Copyright
 Tiny Package Manager are licensed under the MIT license, Please read the [License](https://github.com/MajArtsGroup/Tiny-Package-Manager/blob/main/LICENSE) for more details.
 
-Copyright © 2019-2020 Maj Arts Group , all rights reserved.
+**Copyright © 2019-2020 Maj Arts Group , all rights reserved.**
  
